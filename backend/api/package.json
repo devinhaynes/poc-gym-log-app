@@ -1,0 +1,15 @@
+{
+  "name": "poc-gym-log-app-api",
+  "version": "1.0.0",
+  "description": "Gym Log application Proof of Concept",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Devin Haynes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
